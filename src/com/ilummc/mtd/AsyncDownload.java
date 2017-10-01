@@ -18,8 +18,6 @@ import com.ilummc.mtd.Callback;
 
 /**
  * 异步多线程下载类
- * 
- * @author Man-YB
  *
  */
 public class AsyncDownload {
